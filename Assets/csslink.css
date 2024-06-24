@@ -119,11 +119,11 @@ ul li {
 
 footer {
 text-align: center;
-background-color: gold;
+background-color:darkgoldenrod;
 
 }
 
 p {
-
-color: black;
+font-size: 57px;
+color: gold;
 }
